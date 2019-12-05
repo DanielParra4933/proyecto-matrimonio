@@ -1,0 +1,102 @@
+.fondo {
+  background: url(../img/03-background.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.fondo2 {
+  background: url(../img/06-background.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.fondo3 {
+  background: url(../img/13-background.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+::placeholder {
+  color: black !important;
+}
+
+select {
+  color: black !important;
+}
+
+.btn-primary2 {
+  background: #00A19E;
+}
+
+.btn-primary2:hover {
+  background: black;
+}
+
+.color2 {
+  color: #00A19E;
+}
+
+.bg-primary2 {
+  background: #00A19E !important;
+}
+
+.boxu {
+  box-shadow: 5px 5px 0px 0px #00A19D !important;
+}
+
+@media (min-width:1024px) {
+  .widthmodf {
+    width: 6%;
+  }
+}
+
+@media (min-width:1280px) {
+  .widthmodf {
+    width: 4%;
+  }
+}
+
+@media (min-width:1024px) {
+  .widthmodf2 {
+    width: 12%;
+  }
+}
+
+@media (min-width:1280px) {
+  .widthmodf2 {
+    width: 8%;
+  }
+}
+
+@media (min-width:1024px) {
+  .widthmodf3 {
+    width: 19%;
+  }
+}
+
+@media (min-width:1280px) {
+  .widthmodf3 {
+    width: 11%;
+  }
+}
+
+.form-control {
+  border: 1px solid #00A19E !important;
+  border-radius: 0.6rem !important;
+}
+
+.color3 {
+  color: #464126;
+}
+
+@media (min-width:1024px) {
+  .le {
+    width: 80%;
+  }
+}
+
+@media (min-width:1280px) {
+  .le {
+    width: 80%;
+  }
+}
